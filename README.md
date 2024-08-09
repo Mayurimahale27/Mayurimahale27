@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on **Java Project**
 
+- 💬 Ask me about **coding**
+
 - 📫 How to reach me **mayurimhl@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
